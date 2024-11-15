@@ -1,9 +1,9 @@
-title: Parchment
-author: pro-panda
-subtitle: The life of a frustrated engineer
+title: GratefulDaemon
+author: me
+subtitle: Nothing worth reading.
 
-url: "https://rahulbothra.com"
-baseurl: "/parchment"
+url: "https://bibbyboppy.github.io"
+baseurl: "/"
 
 footer_only_homepage: true
 footer_url: "https://github.com/rhl-bthr"
@@ -14,11 +14,11 @@ favicon_location: assets/favicon.ico
 
 permalink: /:year-:month-:day-:title/
 sass:
-    style: compressed
-    sass_dir: css
+  style: compressed
+  sass_dir: css
 
 navbar:
- - name: "About"
-   link: "about"
- - name: "Resume"
-   absolute-link: "https://rahulbothra.com/cv.pdf"
+  - name: "About"
+    link: "about"
+  - name: "tags"
+    absolute-link: "https://bippyboppy.github.io/parchment/tags/"

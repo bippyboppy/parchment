@@ -3,23 +3,11 @@ layout: default
 title: About Me
 ---
 
-<img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}">
+- [dotorg](https://gratefuldaemon.github.io/dotorg/) - a searchable and tagged backup for misc org files, think of an export of my brain.
 
-I'm Dilbert. I've been working as a Software Engineer for over 30 years. I like to innovate to solve challenging problems using technology. I work with a great Engineering team, but we have a good-for-nothing and clueless manager, who can be replaced with a monkey and the change would be for the better.
+# Curated links
+- [predictions](https://gratefuldaemon.github.io/dotorg/#9aa6816e-42a1-47d0-9755-b0a6cc9e9519) - A list of predictions I've made on several subjects with basic statistics (git history can be found [here](https://github.com/gratefuldaemon/dotorg/commits/main/20241102-predictions.org))
+- [a k/acc manifesto](https://gratefuldaemon.github.io/blog/2024/03/15/k-acc-manifesto.html)
+- [rokos basilisk is worthless trash](https://gratefuldaemon.github.io/blog/2024/08/16/rokos-basilisk-is-worthless-trash.html)
+- [pessimism kills](https://gratefuldaemon.github.io/blog/2024/03/29/pessimism-kills.html)
 
-On a personal front, I live with two amazing pets - Dogbert and Ratbert, and three dinasours - Bob, Rex and Dawn - who're hiding from the rest of the world. I'm single and have few friends due to my poor social skills, but I usually spend my time playing with computers and technology.
-
-### Life Advice
-Here are a few things I've learned over the years,
-> An optimist is simply a pessimist with no job experience.
-
-> All of your co-workers are fools. You must learn to pity and tolerate them.
-
-> There are very few problems that can't be solved through a suitable application of high explosives.
-
-### Publications
-1. Dilbert, Ratbert: "Effects of having a dog and a dinasaur in the same house", _Journal of Wierd Studies_
-2. Alice, Dilbert, Wally: "Efficient ways to deal with a dumb manager", _Conference of Frustrated Engineers_
-
-### Contact Me
-No thanks, I have enough problems of my own to deal with.
